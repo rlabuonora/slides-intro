@@ -1,11 +1,9 @@
 ---
 title: "Introducción a la Economía"
-subtitle: "Introducción"  
 output:
   xaringan::moon_reader:
     css: [xaringan-themer.css, custom.css]
     nature:
-      beforeInit: "https://platform.twitter.com/widgets.js"
       slideNumberFormat: "%current%"
       highlightStyle: github
       highlightLines: true
