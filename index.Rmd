@@ -438,6 +438,14 @@ $$ Consumo = f(Ingreso) $$
 $$ Producción = f(Trabajadores) $$
 $$ Demanda = Q_d(Precio, Ingresos, ...) $$
 
+---
+background-image: url("imgs/risk.png")
+background-position: center bottom
+background-size: 75%
+
+# Funciones (2)
+
+- Permiten entender la relación entre variables.
 
 ---
 background-image: url("imgs/serie_1.jpg")
