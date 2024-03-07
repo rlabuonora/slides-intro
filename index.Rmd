@@ -74,7 +74,7 @@ style_mono_accent(
 # Horarios
 
 
-- Jueves  9:10 - 9:50
+- Miércoles  7:45 - 8:25
 
 - Viernes 7:45 - 9:05
 
